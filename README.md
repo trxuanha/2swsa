@@ -41,3 +41,5 @@ Study to Understand Prognoses Preferences Outcomes and Risks of Treatment (SPT).
 
 
 # Buil the stable survival analysis model
+
+To run experiments with 2SWSA: execute command "python do_exp.py dataset 2swsa", where dataset is actg175, telco, pbc, hr, framingham or kickstarter. For example, to run experiments with the dataset of AIDS Clinical Trials Group Protocol 175, run "python do_exp.py actg175 2swsa".
