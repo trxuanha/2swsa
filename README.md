@@ -23,7 +23,7 @@ For running baseline methods:
 * CPU: Intel(R) Xeon(R) Gold 6246 CPU @ 3.30GHz).
 * RAM: 16 GB.
 
-# Public datasets
+# Datasets
 
 Telco Customer Churn (TEL). This dataset contains information about 7043 customers of a telecom company based in California with 19 features. The data is split into four sub datasets based on payment methods.
 
