@@ -14,9 +14,9 @@ For running 2SWSA:
 
 For running baseline methods:
 
-* pysurvival for Cox proportional hazards, DeepSurv, Neural Multi-Task Logistic Regression, Random Survival Forest.
-* sksurv for Survival Support Vector Machine.
-* lifelines for Accelerated Failure Time.
+* Cox proportional hazards, DeepSurv, Neural Multi-Task Logistic Regression, Random Survival Forest: pysurvival.
+* Survival Support Vector Machine: sksurv.
+* Accelerated Failure Time: lifelines.
 
 # Infrastructure used to run experiments:
 * OS: Red Hat Enterprise Linux, version 7.8.
