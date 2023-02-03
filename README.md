@@ -4,7 +4,7 @@ A python implementation of Two Stage Reweighting Survival Analysis (2SWSA) metho
 # Installation
 Installation requirements for Two Stage Reweighting Survival Analysis
 
-* Python >= 3.6
+* Python
 * numpy
 * pandas
 * scipy
