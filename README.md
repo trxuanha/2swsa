@@ -2,7 +2,7 @@
 A python implementation of Two Stage Reweighting Survival Analysis (2SWSA) method in paper "Stabilising Job Survival Analysis for Disability Employment Services in Unseen Environments".
 
 # Installation
-Requirements for running 2SWSA:
+For running 2SWSA:
 
 * Python
 * numpy
@@ -12,7 +12,7 @@ Requirements for running 2SWSA:
 * survival
 * torch
 
-Requirements for running baseline methods:
+For running baseline methods:
 
 * pysurvival for Cox proportional hazards, DeepSurv, Neural Multi-Task Logistic Regression, Random Survival Forest.
 * sksurv for Survival Support Vector Machine.
