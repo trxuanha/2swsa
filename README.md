@@ -43,3 +43,5 @@ For running baseline methods:
 # Usage
 
 To run 2SWSA: execute command "python do_exp.py dataset 2swsa", where dataset is actg175, telco, pbc, hr, framingham or kickstarter. For example, to run experiments with the dataset of AIDS Clinical Trials Group Protocol 175, run "python do_exp.py actg175 2swsa".
+
+To update information for each dataset, update its corresponding configuration file in folder config.
