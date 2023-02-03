@@ -40,6 +40,6 @@ Framingham Heart study (FRH). This dataset contains information about 4434  part
 Study to Understand Prognoses Preferences Outcomes and Risks of Treatment (SPT). This is a public dataset introduced in a survival time study of seriously-ill hospitalised adults. After processing, the final dataset has 7856 samples with 43 attributes. The data is split into eight sub datasets based on disease type. 
 
 
-# Buil the stable survival analysis model
+# Usage
 
 To run experiments with 2SWSA: execute command "python do_exp.py dataset 2swsa", where dataset is actg175, telco, pbc, hr, framingham or kickstarter. For example, to run experiments with the dataset of AIDS Clinical Trials Group Protocol 175, run "python do_exp.py actg175 2swsa".
