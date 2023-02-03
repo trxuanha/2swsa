@@ -56,7 +56,7 @@ class SWSA(nn.Module):
             # loss values
             cox_loss, con_weight_loss, cen_weight_loss, encoding_var, conW, cenW = self._compute_loss(X, y, e)
    
-            anpha = 0.1       
+            anpha = 1       
             beta = 1
         
             loss = cox_loss + anpha*con_weight_loss + beta*cen_weight_loss
