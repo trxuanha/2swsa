@@ -24,7 +24,7 @@ Installation requirements for Two Stage Reweighting Survival Analysis
 
 # Public datasets
 
-Telco Customer Churn. This dataset contains information about 7043 customers of a telecom company based in California with 19 features. The data is split into four sub datasets based on payment methods.
+Telco Customer Churn (TEL). This dataset contains information about 7043 customers of a telecom company based in California with 19 features. The data is split into four sub datasets based on payment methods.
 
 Mayo Clinic Primary Biliary Cirrhosis Data (PBC). This dataset contains information about 1945 patients with 16 attributes. The dataset is from the study of the progression of primary biliary cirrhosis. The data is split into four sub datasets based on histologic disease stage.
 
