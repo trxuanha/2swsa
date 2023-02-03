@@ -36,7 +36,7 @@ Human resource (HMR). This dataset contains information of 15000 people with 10 
 
 Framingham Heart study (FRH). This dataset contains information about 4434  participants  with 19 attributes in the Framingham heart study. It studies epidemiology for the hypertensive and arteriosclerotic cardiovascular disease. The data is split into four sub datasets based on education.
 
-Study to Understand Prognoses Preferences Outcomes and Risks of Treatment (SPT). This is a public dataset introduced in a survival time study of seriously-ill hospitalised adults. After processing as in \cite{katzman2018deepsurv}, the final dataset has 7856 samples with 43 attributes. The data is split into eight sub datasets based on disease type. 
+Study to Understand Prognoses Preferences Outcomes and Risks of Treatment (SPT). This is a public dataset introduced in a survival time study of seriously-ill hospitalised adults. After processing, the final dataset has 7856 samples with 43 attributes. The data is split into eight sub datasets based on disease type. 
 
 
 # Buil the stable survival analysis model
