@@ -113,14 +113,7 @@ def wrapperPara(fold, ini_file):
     allcolumns = covariates + [event, target, 'h_x']    
     output = pd.DataFrame(columns = allcolumns)
 
-    results_list = []
-    
-    icount = 0
-    
-    allFactors = config['dataset']['compare_factor']
-    df_train = pd.read_csv(train_file, encoding = "ISO-8859-1", engine='python')
-    
-    
+    icount = 0    
     for test_loader in list_of_test_loaders:
 
         X, y, e  = next(iter(test_loader))
